@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranathi Rudraraju</h1>
-<h3 align="center">A Passionate Full Stack Developer from India</h3>
+<h3 align="center"> An Aspring Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranathirudraraju&label=Profile%20views&color=0e75b6&style=flat" alt="pranathirudraraju" /> </p>
@@ -10,15 +10,15 @@
 
 - 🔭 I’m currently Doing Internship at **Coding Brains**
 
-- 🌱 I’m currently learning **Django, Python, Power BI**
+- 🌱 I’m currently learning **Django, Python, Power BI, SQL**
 
 - 👯 I’m currently working on **Capstone Project Development**
 
 - 🤝 I’m looking for **a Job in Top MNC**
 
-- 💬 Ask me about **Full Stack Python, Power BI, HTML, CSS**
+- 💬 Ask me about **Full Stack Python, Power BI, SQL, HTML, CSS**
 
-- 📫 How to reach me **rudrarajupranathi25@gmail.com**
+- 📫 How to reach me **pranathirudraraju80@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
